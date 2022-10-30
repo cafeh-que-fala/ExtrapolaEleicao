@@ -31,7 +31,7 @@ votes = {
         "13": 0,
         "22": 0
     },
-    "extrapolated_pct"{
+    "extrapolated_pct":{
         "13":0,
         "22":0
     }
